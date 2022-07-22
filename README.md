@@ -7,7 +7,6 @@ docker-compose up -d --build
 ## Getting access to the database
 ```sh
 pgadmin4 >>> localhost:5051
-Copy and paste the sql code from 'docker' folder to create a table.
 ```
 
 ## Available functions
